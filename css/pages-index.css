@@ -1,0 +1,41 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #f2f3f4;
+	background-size: cover;
+}
+
+.nav-edit{
+	background-color: orange;
+	color: #ffffff;
+	font-weight: bold; 
+}
+.post{
+	background-color: #ffffff;
+	width: auto;
+	height: auto;
+	border-radius: 8px;
+	margin-top: 20px; 
+}
+.profile{
+	border: solid 5px #00ff00;
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	padding: 5px;
+}
+span.box{
+	background-color: #999999;
+	border-radius: 50px;
+	width: 30%;
+	padding: 5px;
+	text-align: center;
+	font-weight: bold;
+	color: #ffffff;
+	text-align: center;
+	font-size: 13px;
+
+}
+span.name{
+	color:orange;
+}
